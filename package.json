@@ -1,0 +1,17 @@
+{
+  "name": "backend_dict",
+  "version": "1.0.0",
+  "description": "bakcend for collocation dict",
+  "main": "main.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fish-inu",
+  "license": "ISC"
+}
